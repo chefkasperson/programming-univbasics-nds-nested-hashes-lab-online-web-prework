@@ -11,8 +11,8 @@ def assembled_aoh
   array = [
     DON_G,
     JOELLE_VD,
-    Pat_M,
-    Kate_G,
+    PAT_M_M,
+    KATE_G,
     BRUCE_G
     ]
   # Build an array that contains (or, "nests") the constants into a single
